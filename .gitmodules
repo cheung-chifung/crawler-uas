@@ -1,0 +1,3 @@
+[submodule "deps/crawler-user-agents"]
+	path = deps/crawler-user-agents
+	url = git@github.com:monperrus/crawler-user-agents.git
